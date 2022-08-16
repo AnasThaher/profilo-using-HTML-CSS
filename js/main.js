@@ -21,7 +21,7 @@ console.log("js is run ");
   scrollAnm.reveal('.about-imge',{origin:'left'});
   scrollAnm.reveal('.heading',{});
   scrollAnm.reveal('.servises-content');
-  scrollAnm.reveal('.work-img',{});
+  scrollAnm.reveal('.work-img',{origin:'right'});
   scrollAnm.reveal('.work-text',{origin:'left'});
   scrollAnm.reveal('.app h1',{});
   scrollAnm.reveal('.app');
